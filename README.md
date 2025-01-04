@@ -46,4 +46,6 @@ Example Project [https://drive.google.com/file/d/1IOOh0n7Fj2qDCCB_zjrg1KDBX7gggk
 
 FAQ[https://drive.google.com/file/d/1YhR2worpLBIvYzfLyd7MzlFI9qQIBSzG/view?usp=sharing]
 
+First time setup[https://louiscontant.com/TwitchIntegrator/setup.html]
+
 For questions and support about the plugin : louis@louiscontant.com
